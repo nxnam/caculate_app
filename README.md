@@ -13,8 +13,9 @@
 
 - Bước 4: Click chuột phải vào file `main.dart` trong folder `\lib` rồi chạy `Run`.
 ### Ảnh chụp màn hình
-![alt](https://github.com/nxnam/caculate_app/blob/main/image1.png)
-![alt](https://github.com/nxnam/caculate_app/blob/main/image2.png)
+
+<img src="image1.png" alt="drawing" width="200"/>
+<img src="image2.png" alt="drawing" width="200"/>
 
 ### Thông tin sinh viên
 
