@@ -12,6 +12,9 @@
 - Bước 3: Khởi động thiết bị di động và đợi tới khi dự án kết nối với thiết bị.
 
 - Bước 4: Click chuột phải vào file `main.dart` trong folder `\lib` rồi chạy `Run`.
+### Ảnh chụp màn hình
+![alt](https://github.com/nxnam/caculate_app/blob/main/image1.png)
+![alt](https://github.com/nxnam/caculate_app/blob/main/image2.png)
 
 ### Thông tin sinh viên
 
